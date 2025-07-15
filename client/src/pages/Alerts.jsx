@@ -184,7 +184,7 @@ const Alerts = () => {
             alerts.map((camera) => (
               <div
                 key={camera.poleId}
-                className="camera-item alert-item"
+                className="camera-item alert-item alert-box"
                 onClick={() => handleImageClick(camera)}
               >
                 <img

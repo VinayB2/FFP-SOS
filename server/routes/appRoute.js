@@ -19,7 +19,7 @@ router.get("/alert/:poleId", alert);
 
 // Admin
 router.post("/add-pole", authorizeAdmin, addPole);
-router.post("/add-user", authorizeAdmin, addUser);
+router.post("/add-user", addUser);
 router.get("/delete-user/:username", authorizeAdmin, deleteUser);
 router.get("/get-user-list", authorizeAdmin, getUserList);
 

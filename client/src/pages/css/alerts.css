@@ -11,6 +11,11 @@
   height: 100vh;
 }
 
+.alert-box{
+  height: 450px;
+  width: 500px;
+}
+
 @keyframes breathing-shadow {
   0% { box-shadow: 0 0 5px #ff0000; }
   50% { box-shadow: 0 0 30px #ff0000; }
