@@ -1,7 +1,3 @@
-Here's a professional and detailed README file for your FP-SOS project:
-
----
-
 # FP-SOS: Smart Pole Surveillance and SOS Alert System
 
 ## Table of Contents
@@ -132,6 +128,21 @@ fp-sos/
 ```
 
 ---
+## Screenshots 
+![Surveillance Grid](Images/survillance.png)
+
+![Camera monitoring](Images/img1.png) 
+
+![SOS Alert](Images/img2.png) 
+
+![Search Functionality](Images/img3.png) 
+
+![System Overview](Images/img4.png)
+
+![User management](Images/img5.png)
+
+![Camera management](Images/img6.png)
+
 
 ## Future Enhancements
 
